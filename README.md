@@ -1,6 +1,6 @@
-👋 Hi, I’m @Jayesh Gangurde
-👀 I’m interested in Coding
-📫 How to reach me https://www.linkedin.com/in/jayeshgangurde/
+-👋 Hi, I’m @Jayesh Gangurde
+-👀 I’m interested in Coding
+-📫 How to reach me https://www.linkedin.com/in/jayeshgangurde/
 
 
 <!---
